@@ -1,6 +1,6 @@
 # Awesome AI Engineer Reads
 
-[:house_buildings: Building and Deploying LLMs](#building-plus-deploying-llms)
+[🏗️ Building and Deploying LLMs](#building-plus-deploying-llms)
 
 [:balance_scale: Evaluating LLM + Retrieval](#evaluating-llm-plus-retrieval)
 
@@ -18,7 +18,7 @@
 
 [:jigsaw: LLM Embeddings](#llm-embeddings)
 
-[:wrench: LLM Engineerin](#llm-engineering)g
+[:wrench: LLM Engineering](#llm-engineering)
 
 [:trophy: LLM Engineering Best Practices](#llm-engineering-best-practices)
 
