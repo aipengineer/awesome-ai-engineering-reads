@@ -357,4 +357,32 @@
        https://arxiv.org/abs/2309.05516
        https://arxiv.org/abs/2308.13137
        https://arxiv.org/abs/2306.08543
-       
+       https://arxiv.org/abs/2306.13649
+       https://arxiv.org/abs/2305.14864
+       https://arxiv.org/abs/2301.00234
+       https://arxiv.org/abs/2301.11916
+       https://arxiv.org/abs/2212.10670
+       https://arxiv.org/abs/2210.06726
+       https://arxiv.org/abs/2212.08410
+       https://arxiv.org/abs/2305.14152
+       https://arxiv.org/abs/2305.14314
+       https://arxiv.org/abs/2210.17323
+       https://arxiv.org/abs/2306.00978
+       https://www.ben-evans.com/benedictevans/2023/10/5/unbundling-ai
+       https://www.coatue.com/blog/perspective/ai-the-coming-revolution-2023
+       https://arxiv.org/pdf/2308.07633
+       https://arxiv.org/abs/2301.00774
+       https://arxiv.org/abs/2305.18403
+       https://arxiv.org/abs/2306.11695
+       https://arxiv.org/abs/2305.11627
+       https://arxiv.org/abs/2305.17888
+       https://arxiv.org/abs/2305.14152
+       https://arxiv.org/abs/2206.09557
+       https://arxiv.org/abs/2208.07339
+       https://arxiv.org/abs/2206.09557
+       https://arxiv.org/abs/2208.07339
+       https://arxiv.org/abs/2206.01861
+       https://arxiv.org/abs/2211.10438
+       https://arxiv.org/abs/2305.14152
+       https://arxiv.org/abs/2305.17888
+       https://arxiv.org/abs/2306.03078
