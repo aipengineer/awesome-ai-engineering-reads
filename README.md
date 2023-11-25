@@ -1,10 +1,10 @@
 # Awesome AI Engineer Reads
 
-[:house_buildings: Building and Deploying LLMs](#building-and-deploying-llms)
+[:house_buildings: Building and Deploying LLMs](#building-plus-deploying-llms)
 
-[:balance_scale: Evaluating LLM + Retrieval](#evaluating-llm-+-retrieval)
+[:balance_scale: Evaluating LLM + Retrieval](#evaluating-llm-plus-retrieval)
 
-[:mag: LLM + Retrieval](#llm-+-retrieval)
+[:mag: LLM + Retrieval](#llm-and-retrieval)
 
 [:computer: LLM Applications](#llm-applications)
 
@@ -151,7 +151,7 @@
 - [MultiVector Retriever](https://python.langchain.com/docs/modules/data_connection/retrievers/multi_vector)  
 - [Fine-Tuning LLaMA for Multi-Stage Text Retrieval](https://arxiv.org/pdf/2310.08319.pdf)
 
-## LLM + Retrieval
+## LLM plus Retrieval
 
 - [Making Retrieval Augmented Generation Better with @jamesbriggs](https://www.youtube.com/watch?v=Q-uEhJMu3ak)
 - [Harnessing Retrieval Augmented Generation With Langchain](https://betterprogramming.pub/harnessing-retrieval-augmented-generation-with-langchain-2eae65926e82)
@@ -160,7 +160,7 @@
 - [LangChain "Advanced Retrieval" Webinar](https://www.crowdcast.io/c/kqz7nl8nps42)
 - [TWIML-RAG - a TWIML generative_ai community project.](https://github.com/TWIML/TWIML-RAG)
 
-## Evaluating LLM + Retrieval
+## Evaluating LLM plus Retrieval
 
 - [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/) 
 - [Building And Troubleshooting An Advanced LLM Query Engine](https://www.youtube.com/watch?v=_zDDErOaUqc)
