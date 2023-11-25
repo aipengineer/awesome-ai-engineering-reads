@@ -1,5 +1,7 @@
 # Awesome AI Engineer Reads
 
+Here is the updated table of contents with replaced emojis:
+
 :house_buildings: Building and Deploying LLMs
 
 :balance_scale: Evaluating LLM + Retrieval  
@@ -10,39 +12,39 @@
 
 :brain: LLM Architectures and Models
 
-:briefcase: LLM Business 
+:briefcase: LLM Business
 
-:bar_chart: LLM Data
+:bar_chart: LLM Data  
 
 :rocket: LLM Deployment
 
-:jigsaw: LLM Embeddings 
+:jigsaw: LLM Embeddings
 
-:wrench: LLM Engineering 
+:wrench: LLM Engineering
 
-:medal:	LLM Engineering Best Practices
+:trophy: LLM Engineering Best Practices  
 
-:scales: LLM Ethics and Governance
+:balance_scale: LLM Ethics and Governance
 
-:microscope: LLM Evaluation
+:microscope: LLM Evaluation  
 
-:event: LLM Events
+:ticket: LLM Events
 
 :exploding_head: LLM Hype
 
 :thinking: LLM Inference
 
-:building_construction: LLM Infrastructure
+:building_construction: LLM Infrastructure 
 
-:loudspeaker: LLM Marketing 
+:loudspeaker: LLM Marketing
 
-:newspaper: LLM Newsletters
+:newspaper: LLM Newsletters  
 
 :1234: LLM Numbers
 
 :eyes: LLM Observability
 
-:speech_balloon: LLM Opinions and Critiques
+:speech_balloon: LLM Opinions and Critiques  
 
 :pencil: LLM Prompting
 
@@ -50,21 +52,22 @@
 
 :fishing_pole_and_fish: LLM Retriever Models
 
-:moneybag: LLM Startups and Funding
+:moneybag: LLM Startups and Funding  
 
-:green_book: LLM Tutorials and Courses
+:green_book: LLM Tutorials and Courses  
 
 :unlock: Open LLM Models
 
-:wrench: Open LLM Tools
+:wrench: Open LLM Tools  
 
 :desktop_computer: Self-Hosted LLMs
 
 :hammer_and_wrench: Tools and Frameworks
 
-:weight_lifting: Training and Fine-tuning LLMs
+:weight_lifting: Training and Fine-tuning LLMs  
 
 :grey_question: Uncategorized
+
 ## Building and Deploying LLMs
 
 - [Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
