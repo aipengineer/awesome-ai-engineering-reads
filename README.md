@@ -315,4 +315,15 @@
 	https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms.html
 	https://web.mit.edu/6.031/www/sp22/
 	https://www.youtube.com/watch?v=bJ3i4K3hefI
-	https://github.com/tianlinxu312/Everything-about-LLMs 
+	https://github.com/tianlinxu312/Everything-about-LLMs
+ 	https://arxiv.org/abs/2311.04205
+ 	https://arxiv.org/abs/2309.04269
+ 	https://arxiv.org/abs/2310.11511
+  	https://arxiv.org/pdf/2310.07064
+   	https://arxiv.org/abs/2309.15217
+    	https://arxiv.org/abs/2304.08354
+    	https://arxiv.org/abs/2203.11171
+     	https://arxiv.org/abs/2310.06692
+     	https://arxiv.org/abs/2310.05029
+     	https://arxiv.org/abs/2005.11401
+     	
