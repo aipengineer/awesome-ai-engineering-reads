@@ -335,3 +335,26 @@
        https://arxiv.org/abs/2306.09299
        https://arxiv.org/abs/2207.00112
        https://arxiv.org/abs/2307.00526
+       https://arxiv.org/abs/2106.09685
+       https://arxiv.org/abs/2210.07558
+       https://arxiv.org/abs/2311.12023
+       https://arxiv.org/abs/2311.11696
+       https://arxiv.org/abs/2311.09179
+       https://arxiv.org/abs/2311.08598
+       https://arxiv.org/abs/2311.05556
+       https://cset.georgetown.edu/publication/techniques-to-make-large-language-models-smaller-an-explainer
+       https://arxiv.org/abs/2304.01089
+       https://arxiv.org/abs/2304.07493
+       https://arxiv.org/abs/2304.09145
+       https://arxiv.org/pdf/2306.02272
+       https://arxiv.org/abs/2307.09782
+       https://arxiv.org/abs/2303.08302
+       https://arxiv.org/abs/2306.07629
+       https://arxiv.org/abs/2307.13304
+       https://arxiv.org/abs/2308.15987v1
+       https://arxiv.org/abs/2309.01885
+       https://arxiv.org/abs/2309.02784
+       https://arxiv.org/abs/2309.05516
+       https://arxiv.org/abs/2308.13137
+       https://arxiv.org/abs/2306.08543
+       
