@@ -1,6 +1,6 @@
 # Awesome AI Engineer Reads
 
-[🏗️ Building and Deploying LLMs](#building-plus-deploying-llms)
+[🏗️ Building and Deploying LLMs](#building-and-deploying-llms)
 
 [:balance_scale: Evaluating LLM + Retrieval](#evaluating-llm-plus-retrieval)
 
