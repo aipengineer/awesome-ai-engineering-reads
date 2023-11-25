@@ -1,72 +1,70 @@
 # Awesome AI Engineer Reads
 
-Here is the updated table of contents with replaced emojis:
+[:house_buildings: Building and Deploying LLMs](#building-and-deploying-llms)
 
-:house_buildings: Building and Deploying LLMs
+[:balance_scale: Evaluating LLM + Retrieval](#evaluating-llm-+-retrieval)
 
-:balance_scale: Evaluating LLM + Retrieval  
+[:mag: LLM + Retrieval](#llm-+-retrieval)
 
-:mag: LLM + Retrieval
+[:computer: LLM Applications](#llm-applications)
 
-:computer: LLM Applications
+[:brain: LLM Architectures and Models](#llm-architectures-and-models)
 
-:brain: LLM Architectures and Models
+[:briefcase: LLM Business](#llm-business)
 
-:briefcase: LLM Business
+[:bar_chart: LLM Data](#llm-data)
 
-:bar_chart: LLM Data  
+[:rocket: LLM Deployment ](#llm-deployment)
 
-:rocket: LLM Deployment
+[:jigsaw: LLM Embeddings](#llm-embeddings)
 
-:jigsaw: LLM Embeddings
+[:wrench: LLM Engineerin](#llm-engineering)g
 
-:wrench: LLM Engineering
+[:trophy: LLM Engineering Best Practices](#llm-engineering-best-practices)
 
-:trophy: LLM Engineering Best Practices  
+[:balance_scale: LLM Ethics and Governance](#llm-ethics-and-governance)
 
-:balance_scale: LLM Ethics and Governance
+[:microscope: LLM Evaluation](#llm-evaluation)
 
-:microscope: LLM Evaluation  
+[:ticket: LLM Events](#llm-events)
 
-:ticket: LLM Events
+[:exploding_head: LLM Hype](#llm-hype)
 
-:exploding_head: LLM Hype
+[:thinking: LLM Inference](#llm-inference)
 
-:thinking: LLM Inference
+[:building_construction: LLM Infrastructure](#llm-infrastructure)
 
-:building_construction: LLM Infrastructure 
+[:loudspeaker: LLM Marketing](#llm-marketing)
 
-:loudspeaker: LLM Marketing
+[:newspaper: LLM Newsletters](#llm-newsletters)
 
-:newspaper: LLM Newsletters  
+[:1234: LLM Numbers](#llm-numbers)
 
-:1234: LLM Numbers
+[:eyes: LLM Observability](#llm-observability)
 
-:eyes: LLM Observability
+[:speech_balloon: LLM Opinions and Critiques](#llm-opinions-and-critiques)
 
-:speech_balloon: LLM Opinions and Critiques  
+[:pencil: LLM Prompting](#llm-prompting)
 
-:pencil: LLM Prompting
+[:notebook_with_decorative_cover: LLM Research and Publications](#llm-research-and-publications)
 
-:notebook_with_decorative_cover: LLM Research and Publications
+[:fishing_pole_and_fish: LLM Retriever Models](#llm-retriever-models)
 
-:fishing_pole_and_fish: LLM Retriever Models
+[:moneybag: LLM Startups and Funding](#llm-startups-and-funding)
 
-:moneybag: LLM Startups and Funding  
+[:green_book: LLM Tutorials and Courses](#llm-tutorials-and-courses)
 
-:green_book: LLM Tutorials and Courses  
+[:unlock: Open LLM Models](#open-llm-models)
 
-:unlock: Open LLM Models
+[:wrench: Open LLM Tools](#open-llm-tools)
 
-:wrench: Open LLM Tools  
+[:desktop_computer: Self-Hosted LLMs](#self-hosted-llms)
 
-:desktop_computer: Self-Hosted LLMs
+[:hammer_and_wrench: Tools and Frameworks](#tools-and-frameworks)
 
-:hammer_and_wrench: Tools and Frameworks
+[:weight_lifting: Training and Fine-tuning LLMs](#training-and-fine-tuning-llms)
 
-:weight_lifting: Training and Fine-tuning LLMs  
-
-:grey_question: Uncategorized
+[:grey_question: Uncategorized](#uncategorized)
 
 ## Building and Deploying LLMs
 
