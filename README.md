@@ -1,5 +1,70 @@
 # Awesome AI Engineer Reads
 
+:house_buildings: Building and Deploying LLMs
+
+:balance_scale: Evaluating LLM + Retrieval  
+
+:mag: LLM + Retrieval
+
+:computer: LLM Applications
+
+:brain: LLM Architectures and Models
+
+:briefcase: LLM Business 
+
+:bar_chart: LLM Data
+
+:rocket: LLM Deployment
+
+:jigsaw: LLM Embeddings 
+
+:wrench: LLM Engineering 
+
+:medal:	LLM Engineering Best Practices
+
+:scales: LLM Ethics and Governance
+
+:microscope: LLM Evaluation
+
+:event: LLM Events
+
+:exploding_head: LLM Hype
+
+:thinking: LLM Inference
+
+:building_construction: LLM Infrastructure
+
+:loudspeaker: LLM Marketing 
+
+:newspaper: LLM Newsletters
+
+:1234: LLM Numbers
+
+:eyes: LLM Observability
+
+:speech_balloon: LLM Opinions and Critiques
+
+:pencil: LLM Prompting
+
+:notebook_with_decorative_cover: LLM Research and Publications
+
+:fishing_pole_and_fish: LLM Retriever Models
+
+:moneybag: LLM Startups and Funding
+
+:green_book: LLM Tutorials and Courses
+
+:unlock: Open LLM Models
+
+:wrench: Open LLM Tools
+
+:desktop_computer: Self-Hosted LLMs
+
+:hammer_and_wrench: Tools and Frameworks
+
+:weight_lifting: Training and Fine-tuning LLMs
+
+:grey_question: Uncategorized
 ## Building and Deploying LLMs
 
 - [Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
@@ -121,7 +186,6 @@
 ## LLM Opinions and Critiques  
 
 - [Why Chatbots Are Not the Future](https://wattenberger.com/thoughts/boo-chatbots)
-- [boo chatbots](https://wattenberger.com/thoughts/boo-chatbots)
 
 ## LLM Tutorials and Courses  
 
@@ -193,11 +257,6 @@
 ## LLM Newsletters
 
 - [✨ Flashier Attention, 🤐 Gzip Classifiers](https://nlpnewsletter.substack.com/p/flashier-attention-gzip-classifiers)
-
-## LLM Opinions
-
-- [Why Chatbots Are Not the Future](https://wattenberger.com/thoughts/boo-chatbots)  
-- [boo chatbots](https://wattenberger.com/thoughts/boo-chatbots)
 
 ## LLM Ethics and Governance   
 
