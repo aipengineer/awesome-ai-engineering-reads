@@ -410,4 +410,7 @@
        https://arxiv.org/pdf/2311.03301
        https://arxiv.org/pdf/2311.04400
        https://arxiv.org/pdf/2311.04145
+       https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai
+       https://www.oliverwyman.com/our-expertise/insights/2023/nov/impact-of-artificial-intelligence-in-financial-services.html
+       https://www.youtube.com/watch?v=zjkBMFhNj_g
        
