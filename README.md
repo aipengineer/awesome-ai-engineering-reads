@@ -410,7 +410,35 @@
        https://arxiv.org/pdf/2311.03301
        https://arxiv.org/pdf/2311.04400
        https://arxiv.org/pdf/2311.04145
+       [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/pdf/1801.06146.pdf)
        https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai
        https://www.oliverwyman.com/our-expertise/insights/2023/nov/impact-of-artificial-intelligence-in-financial-services.html
        https://www.youtube.com/watch?v=zjkBMFhNj_g
-       
+       https://towardsdatascience.com/recreating-andrej-karpathys-weekend-project-a-movie-search-engine-9b270d7a92e4
+       https://streamlit.io/generative-ai
+       https://www.youtube.com/watch?app=desktop&v=1RxOYLa69Vw
+       https://www.bentoml.com/blog/announcing-open-llm-an-open-source-platform-for-running-large-language-models-in-production
+       https://www.pinecone.io/learn/chunking-strategies/
+       https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5
+       https://amatriain.net/blog/hallucinations
+       https://amatriain.net/blog/PromptEngineering
+       https://realpython.com/chromadb-vector-database/
+       https://github.com/zilliztech/VectorDBBench
+       https://qdrant.tech/benchmarks/
+       https://docs.ragas.io/en/latest/index.html
+       https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c
+       https://medium.com/@kelvin.lu.au/disadvantages-of-rag-5024692f2c53
+       https://towardsdatascience.com/the-untold-side-of-rag-addressing-its-challenges-in-domain-specific-searches-808956e3ecc8
+       https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1
+       https://github.com/BuilderIO/gpt-crawler
+       https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/
+       https://github.com/stas00/ml-engineering/tree/master
+       https://arxiv.org/abs/2303.12712
+       https://arxiv.org/abs/2203.15556
+       https://arxiv.org/abs/2309.00267
+       https://github.com/karpathy/llama2.c/blob/master/run.c
+       https://github.com/ggerganov/llama.cpp
+       https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/
+       https://arxiv.org/abs/2203.02155
+       https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+       https://arxiv.org/abs/1706.03762
