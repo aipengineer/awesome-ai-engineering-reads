@@ -442,3 +442,7 @@
        https://arxiv.org/abs/2203.02155
        https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
        https://arxiv.org/abs/1706.03762
+       https://old.reddit.com/r/LocalLLaMA/comments/1atquor/im_open_sourcing_our_rag_backend_our_cqh_gql_chs/
+       https://ravinkumar.com/GenAiGuidebook/
+       https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930
+       https://srush.github.io/annotated-mamba/hard.html
